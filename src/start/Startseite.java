@@ -27,6 +27,7 @@ public class Startseite {
     }
 
     public static void main(String[] args) {
+        //hello
         // Instanz der Klasse start.Startseite
         Startseite main = new Startseite();
 
